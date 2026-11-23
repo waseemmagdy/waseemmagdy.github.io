@@ -1,0 +1,29 @@
+# WorldPulse News
+
+> Practical English and French articles about technology, artificial intelligence, cybersecurity, mobile plans, data infrastructure and digital privacy, published in 2026.
+
+Primary language: English  
+Also published in: French  
+Homepage: https://eyeonworld-gl.blogspot.com/  
+Full index: https://eyeonworld-gl.blogspot.com/sitemap.xml
+
+## Topics covered
+
+- Artificial intelligence and on-device AI
+- Cybersecurity, two-factor authentication and SIM swap fraud
+- Telecom plans, mobile phones and data costs
+- Data lakes, data streams and cloud infrastructure
+- French-language technology guides
+
+## Recent articles
+
+- [SIM Swap Fraud 2026: How to Protect Your Number](https://eyeonworld-gl.blogspot.com/2026/11/sim-swap-fraud-2026-how-to-protect-your.html)
+- [Authentification à deux facteurs 2026 : bien la régler](https://eyeonworld-gl.blogspot.com/2026/11/authentification-deux-facteurs-2026.html)
+- [Data Streams vs Lakes 2026: What Teams Really Check](https://eyeonworld-gl.blogspot.com/2026/11/data-streams-vs-lakes-2026-what-teams.html)
+- [Flux de données architecturales 2026 : vérifiez vos équipes](https://eyeonworld-gl.blogspot.com/2026/11/flux-de-donnees-architecturales-2026.html)
+
+## Notes
+
+- Articles are written in English or French and published on Blogger.
+- Each article includes a Key Takeaways / Points clés section and a short FAQ.
+- Images are credited to Wikimedia Commons with licence and author.

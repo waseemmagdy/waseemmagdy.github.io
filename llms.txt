@@ -1,0 +1,11 @@
+# Blogger network — llms.txt index
+
+> Five independent blogs publishing practical English and French guides in 2026.
+
+- [WorldPulse News](https://eyeonworld-gl.blogspot.com/) — worldpulse
+- [WealthStream](https://wealthstreamgl.blogspot.com/) — wealthstream
+- [Healthy Living](https://healthylivingeg.blogspot.com/) — healthyliving
+- [EduSpark Academy](https://edusparkacademyglobal.blogspot.com/) — eduspark
+- [Flashpoint](https://flashpointnewsgl.blogspot.com/) — flashpoint
+
+Each site's dedicated file is named `llms-<key>.txt` in this directory.
